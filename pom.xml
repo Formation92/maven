@@ -22,7 +22,7 @@
   <scm>
     <connection>scm:git:https://github.com/Formation92/maven.git</connection>
     <developerConnection>scm:git:https://github.com/Formation92/maven.git</developerConnection>
-    <url>https://github.com/Formation92/maven.git</url>
+    <url>https://github.com/Formation92/maven</url>
     <tag>test2-1.0</tag>
   </scm>
 
